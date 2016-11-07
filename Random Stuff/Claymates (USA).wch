@@ -1,0 +1,4 @@
+SystemID SNES
+000066	w	s	0	WRAM	X Speed
+003085	b	u	0	WRAM	Boss HP?
+
