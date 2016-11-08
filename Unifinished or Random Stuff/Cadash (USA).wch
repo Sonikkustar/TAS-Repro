@@ -1,0 +1,9 @@
+0
+7
+00000	00FF0E8F	b	u	0	1p Muney
+00001	00FF0E4B	b	u	0	1p EXP
+00002	00FF0E9D	b	u	0	1p EXP to Next Level
+00003	00FF0E53	b	s	0	1p Strength
+00004	00FF0E59	b	s	0	1p A.C.
+00005	00FF0E5B	b	s	0	1p Agility
+00006	00FF0DCF	w	s	0	1p Y Speed
