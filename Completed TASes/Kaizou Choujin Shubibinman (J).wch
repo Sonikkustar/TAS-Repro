@@ -1,5 +1,6 @@
 SystemID PCE
 19DA	b	u	0	Main Memory	
 19DB	b	u	0	Main Memory	
-11D6	b	s	0	Main Memory	
+11D6	b	s	0	Main Memory	1p X Speed
+11D8	b	u	0	Main Memory	2p X Speed
 
