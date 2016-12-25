@@ -1,0 +1,13 @@
+SystemID SMS
+0205	b	u	0	Main RAM	X Speed Main
+0204	b	u	0	Main RAM	X Speed Count
+0207	b	s	0	Main RAM	Y Speed
+0031	b	u	0	Main RAM	X Pos
+0035	b	u	0	Main RAM	Y Pos Main
+0034	b	u	0	Main RAM	Y Pos Count
+0036	b	u	0	Main RAM	X Pos (To Screen)
+0037	b	u	0	Main RAM	Y Pos (To Screen)
+000A	b	u	0	Main RAM	Screen X Pos
+000B	b	u	0	Main RAM	Screen Y Pos
+0011	b	u	0	Main RAM	Frame Count (No Lag)
+
