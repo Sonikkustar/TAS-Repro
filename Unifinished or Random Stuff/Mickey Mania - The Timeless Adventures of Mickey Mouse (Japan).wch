@@ -1,0 +1,4 @@
+SystemID SNES
+00FFF8	b	s	0	WRAM	X Speed
+000664	b	s	0	WRAM	Y Speed
+
