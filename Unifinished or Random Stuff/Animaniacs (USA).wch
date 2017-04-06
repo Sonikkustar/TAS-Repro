@@ -1,0 +1,6 @@
+0
+4
+00000	00FFB309	w	s	0	X Speed
+00001	00FFC011	w	s	0	X Speed (Yakko)
+00002	00FFC0F9	b	s	0	Y Speed (Wakko)
+00003	00FFB2EB	b	s	0	Character Change Count

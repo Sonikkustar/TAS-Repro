@@ -1,0 +1,8 @@
+SystemID GEN
+EF03	b	u	1	68K RAM	X Pos.
+EF21	b	u	1	68K RAM	X Pos.
+EF07	b	u	1	68K RAM	Screen Y Pos. (P1)
+F007	b	u	1	68K RAM	(P2)
+EF25	b	u	1	68K RAM	Plane Y Pos. (P1)
+F025	b	u	1	68K RAM	(P2)
+
