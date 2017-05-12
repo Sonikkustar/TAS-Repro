@@ -1,0 +1,6 @@
+2
+4
+00000	00FFAE10	w	s	0	X Pos.
+00001	00FFADA5	w	s	0	Y Speed
+00002	00FFAD74	w	s	0	Ground Speed
+00003	00FF01BF	b	s	0	X Speed?
