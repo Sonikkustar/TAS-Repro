@@ -1,3 +1,5 @@
 0
-1
+3
 00000	00FFC01C	w	s	0	X Velocity
+00001	00FFC01E	w	s	0	Y Velocity
+00002	00FFC021	b	u	0	X Pos?
