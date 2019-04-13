@@ -1,0 +1,8 @@
+0
+6
+00000	00FF94AB	b	s	0	X Speed
+00001	00FF94A9	b	s	0	Y Speed
+00002	00FFA4E2	b	s	0	Y Position?
+00003	00FF9490	b	s	0	X Position?
+00004	00FF946D	b	s	0	Boss HP
+00005	00FF94F1	b	s	0	Boss HP
