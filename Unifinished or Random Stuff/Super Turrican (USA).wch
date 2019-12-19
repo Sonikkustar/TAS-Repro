@@ -1,0 +1,12 @@
+SystemID SNES
+0004D9	b	u	0	WRAM	Crouch Timer (From Jump)
+000B8A	b	s	0	WRAM	Freeze Timer
+000B8C	b	s	0	WRAM	Freeze Timer
+000B7C	b	s	0	WRAM	Freeze Timer
+000050	b	s	0	WRAM	Y Speed
+000084	b	u	0	WRAM	X Screen
+000874	b	u	0	WRAM	
+000AB8	b	u	0	WRAM	Boss HP
+000AC0	b	u	0	WRAM	
+000ACC	b	u	0	WRAM	
+
