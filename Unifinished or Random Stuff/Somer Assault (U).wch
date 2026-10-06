@@ -1,0 +1,6 @@
+SystemID PCE
+1FD0	b	u	0	Main Memory	Month
+1FD2	b	u	0	Main Memory	Day?
+110E	b	u	0	Main Memory	Boss
+1106	b	u	0	Main Memory	Boss 2
+
